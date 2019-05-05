@@ -1,0 +1,22 @@
+{
+    "name": "green",
+    "publisher": "fjy202",
+    "displayName": "green",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "green",
+                "uiTheme": "vs",
+                "path": "./themes/green-color-theme.json"
+            }
+        ]
+    }
+}
