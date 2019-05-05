@@ -1,6 +1,7 @@
 {
     "name": "green",
     "publisher": "fjy202",
+    "repository": {"type": "git","url": "https://github.com/fjy202/green"},
     "displayName": "green",
     "description": "",
     "version": "0.0.1",
