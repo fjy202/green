@@ -11,6 +11,8 @@
 		"titleBar.activeBackground": "#35e235",
 		"scrollbarSlider.background": "#48bd39",
 		"statusBar.background": "#3ba540",
+		"statusBar.debuggingBackground": "#37c537",
+		"statusBar.noFolderBackground": "#65bd4b",
 		"menu.background": "#49ad5a",
 		"list.focusBackground": "#43aa4c",
 		"sideBar.background": "#00ff77"
